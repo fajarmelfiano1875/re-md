@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 878-9271-1054', 'Hyzer'],
+  ['+62 85748839210', 'FajarM'],
   ['+62 877-2631-1156'],
   ['+62 877-6888-6148']
 ]
@@ -15,8 +15,8 @@ global.owner =
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['6285748839210'] // Want some help?
+global.prems = ['6285748839210'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -57,7 +57,7 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ꭱʟxғʟʏ - 2022'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Bot - 2022'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
